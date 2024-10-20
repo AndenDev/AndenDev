@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm John Aldrin M. Castillo</h1>
+# Hey! Glad to see you here! <img src="/src/wave.gif" width="30px" height="30px">
+
 <h3 align="center">Hello, I'm John Aldrin Castillo. My passion for coding started back in high school when I became curious about how software works. Driven by this curiosity, I began studying programming on my own, diving deeper into understanding the fundamentals. Over time, I ventured into reverse engineering games and software, which helped me gain a more in-depth knowledge of how things operate behind the scenes. Recently, I decided to explore web development and have been continuously learning and honing my skills in this field.</h3>
 
 ### 💡 Connect with me
