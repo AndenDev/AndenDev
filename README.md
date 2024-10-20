@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm John Aldrin M. Castillo</h1>
 <h3 align="center">Hello, I'm John Aldrin Castillo. My passion for coding started back in high school when I became curious about how software works. Driven by this curiosity, I began studying programming on my own, diving deeper into understanding the fundamentals. Over time, I ventured into reverse engineering games and software, which helped me gain a more in-depth knowledge of how things operate behind the scenes. Recently, I decided to explore web development and have been continuously learning and honing my skills in this field.</h3>
 
-<h3 align="left">Connect with me:</h3>
+### 💡 Connect with me
+
 <p align="left">
 <a href="https://fb.com/akosialds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akosialds" height="30" width="40" /></a>
 <a href="https://instagram.com/andencastillo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andencastillo_" height="30" width="40" /></a>
 </p>
+
+
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
